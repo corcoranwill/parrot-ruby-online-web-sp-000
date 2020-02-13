@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-Def parrot(arg)
+def parrot(arg)
   if arg == nil
     puts "Squawk!"
   else
