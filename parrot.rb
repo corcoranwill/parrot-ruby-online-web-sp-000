@@ -2,8 +2,8 @@
 # returns the phrase
 Def parrot(arg)
   if arg == nil
-    puts "Squak!"
+    puts "Squawk!"
   else
-    puts "Pretty bird"
+    puts "Pretty bird!"
   end
 end
