@@ -6,5 +6,5 @@ def parrot(phrase)
   else
     phrase = "Pretty bird!"
   end
-  return phrase
+  puts phrase
 end
